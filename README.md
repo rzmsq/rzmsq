@@ -2,7 +2,7 @@
 
 ## About me
 
-| Rank | THING-TO-RANK |
+| Rank |   Languages   |
 |-----:|---------------|
 |     1|      C++      |
 |     2|     Python    |

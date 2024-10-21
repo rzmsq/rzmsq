@@ -2,8 +2,6 @@
 
 ## About me
 
---- Rostislav
-
 <details>
 <summary>My top Languages</summary>
 
@@ -15,7 +13,8 @@
 
 </details>
 
-
+--- 
+- Rostislav
 
 <!--
 <picture>

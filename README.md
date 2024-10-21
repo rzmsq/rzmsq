@@ -32,11 +32,11 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=rzmsq&theme=dracula&border=61dafb&hide_border=true" alt="rzmsq" />
+      <img align="left" width=390 height=180 src="https://streak-stats.demolab.com/?user=rzmsq&theme=dracula&border=61dafb&hide_border=true" alt="rzmsq" />
     </a>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzmsq&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ff6e96&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzmsq&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda,Dart,Swift&title_color=ff6e96&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
     </div>
   </div>

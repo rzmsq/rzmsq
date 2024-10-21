@@ -2,11 +2,17 @@
 
 ## About me
 
+<details>
+<summary>My top Languages</summary>
+
 | Rank |   Languages   |
 |-----:|---------------|
 |     1|      C++      |
 |     2|     Python    |
 |     3|      Dart     |
+
+</details>
+
 
 
 <!--

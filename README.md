@@ -39,5 +39,7 @@
       <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzmsq&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda,Dart,Swift&title_color=ff6e96&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
     </div>
+    <br><br>
+    <p alight="left"><img align="center" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=RAZMES&backgroundColor=282a36&borderColor=ff6e96&textColor=ffffff&primaryColor=79dafa" alt = "razmes"/></p>
   </div>
 </p>

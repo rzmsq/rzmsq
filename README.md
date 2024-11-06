@@ -18,7 +18,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning web-development
+  📚 I’m currently learning web-development, algorithms and data structures, system programming
   <br>
   How to reach me ⬇️
   <br>

@@ -20,6 +20,8 @@
   <br>
   📚 I’m currently learning web-development, algorithms and data structures, system programming
   <br>
+  <a href="https://rzms.me/">Check my web site!<a>
+  <br>
   How to reach me ⬇️
   <br>
     📫 Email <a href="mailto: onlyfordeal28@gmail.com">onlyfordeal28@gmail.com</a>

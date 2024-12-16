@@ -18,7 +18,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning web-development, algorithms and data structures, system programming
+  📚 I’m currently learning node.js
   <br>
   <a href="https://rzms.me/">Check my web site!<a>
   <br>

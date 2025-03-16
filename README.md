@@ -18,8 +18,6 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning node.js
-  <br>
   <a href="https://rzms.me/">Check my web site!<a>
   <br>
   How to reach me ⬇️

@@ -16,12 +16,6 @@
   💻 Passionate about mastering pure C/C++ and system programming, currently studying Vim, OS fundamentals, and algorithms from Cormen's book
   <br>
   <a href="https://rzms.me/">Check my web site!<a>
-  <br>
-  How to reach me ⬇️
-  <br>
-    📫 Email <a href="mailto: onlyfordeal28@gmail.com">onlyfordeal28@gmail.com</a>
-  <br>
-    📱 Telegram <a href="https://t.me/onlyDealRV">@OnlyDealRV</a>
 </p>
 
 <h2 align="center">My Stats 🙂</h2>

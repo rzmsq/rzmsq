@@ -7,16 +7,13 @@
 <p align="center">
   Hi, I'm Rostislav, Studient
   <br>
-  <br>
-  👨‍🎓 I am currently pursuing a bachelor's degree in Applied Mathematics and Computer Science at the university KNRTU-KAI
-  <br>
-  🎓 I am also currently receiving a diploma of advanced training in the field of web and mobile development
+  👨‍🎓 Pursuing a Bachelor's in Applied Mathematics and Computer Science at KNRTU-KAI, diving deep into algorithms and data structures
   <br>
   🎓 I graduated from College of Information Technology and Network Communication (Computer Systems Specialist) 
   <br>
   🎓 I have a diploma of advanced training (Programming of robotic systems)
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 Passionate about mastering pure C/C++ and system programming, currently studying Vim, OS fundamentals, and algorithms from Cormen's book
   <br>
   <a href="https://rzms.me/">Check my web site!<a>
   <br>

@@ -31,6 +31,6 @@
     </a>
     </div>
     <br><br>
-    <p alight="left"><img align="center" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=RAZMES&backgroundColor=282a36&borderColor=ff6e96&textColor=ffffff&primaryColor=79dafa" alt = "rzmsq"/></p>
+    <p alight="left"><img align="center" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=rzmsq&backgroundColor=282a36&borderColor=ff6e96&textColor=ffffff&primaryColor=79dafa" alt = "rzmsq"/></p>
   </div>
 </p>
